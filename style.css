@@ -10,19 +10,19 @@ section {
 }
 
 .bg-1 {
-	background: url('splash.jpg') no-repeat center center fixed;
+	background: url('img/splash.jpg') no-repeat center center fixed;
     color:#fff;
     background-size:cover;
 }
   
 .bg-2 {
-	background: url('splash.jpg') no-repeat top center fixed;
+	background: url('img/splash.jpg') no-repeat top center fixed;
     color:#fff;
     background-size:cover;
 }
 
 .bg-3 {
-	background: url('splash.jpg') no-repeat bottom center fixed;
+	background: url('img/splash.jpg') no-repeat bottom center fixed;
     color:#fff;
     background-size:cover;
 }
